@@ -1,4 +1,4 @@
-# riyan-gandarma-149251970101-159
+Project Pertama
 DTS FGA - Game Programming
 
 Nama  : Riyan Gandarma Ramdhanavia
